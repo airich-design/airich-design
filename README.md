@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Multiple Websites <br>🤝 I’m looking for help with - SEO Google Marketing / Webflow 🥲<br>🌱 I’m currently learning - SEO Google Marketing / Webflow<br>💬 Ask me about - Next.js / React / Frontend / UX / UI
+🔭 I’m currently working on - React SPA, Next.js Websites, Design for a Music collaboration WebApp <br>🤝 <br>🌱 I’m currently learning - Next.js 13 Update <br>💬 Ask me about - Next.js / React / Frontend / UX / UI
 
 
 ## 🌐 Socials:
