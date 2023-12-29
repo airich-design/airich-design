@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - React SPA, Next.js Websites, Design for a Music collaboration WebApp <br>🌱 I’m currently learning - Next.js 13 Update <br>💬 Ask me about - Next.js / React / Frontend / UX / UI
+🔭 I’m currently working on - Multiple Shopify Storefronts built with Next 14, Design for a Music collaboration WebApp, Big Next.js Frontend for a Webapp that enables clients to configure, manage, and monitor their Wi-Fi networks, offering extensive control over network access and usage.  <br>🌱 I’m currently learning - Optimizing Conversion Rates in shops, building really good UX, constantly looking for new design trends and good cases on where to use them <br>💬 Ask me about - Next.js / React / Frontend / UX / UI / Shopify
 
 
 ## 🌐 Socials:
