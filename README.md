@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Multiple Shopify Storefronts built with Next 14, Design for a Music collaboration WebApp, Big Next.js Frontend for a Webapp that allows clients to configure, manage, and monitor their Wi-Fi networks, offering extensive control over network access and usage.  <br>🌱 I’m currently learning - Optimizing Conversion Rates in shops, building really good UX, constantly looking for new design trends and good cases on where to use them <br>💬 Ask me about - Next.js / React / Frontend / UX / UI / Shopify
+🔭 I’m currently working on - Shopify Themes, Shopify Apps and Headless E-Commerce Stores <br>🌱 I’m currently getting more into self-hosting using a VPS -> building side-hustles to learn more about stuff like auth and scaling apps <br>💬 Ask me about - Next.js / React / Frontend / UX / UI / Shopify
 
 
 ## 🌐 Socials:
